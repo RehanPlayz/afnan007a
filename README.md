@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/afnan007a](https://github.com/afnan007a)
 
 
-- 💬 Ask me about **Python ,html ,java ,pwn ,js and lua**
+- 💬 Ask me about **Python ,html ,java ,pwn  and lua (dont ask me about js as im still a nerd at js)**
 
 - 📫 How to reach me **mr.gobiln007a@gmail.com,RedKn1ght#0001**
 
