@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello There! I'm RedKn1ght</h1>
+<h1 align="center">Hello There! I'm Giyu</h1>
 <h3 align="center">A passionate High School coder from India</h3>
 
 
@@ -8,9 +8,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/afnan007a](https://github.com/afnan007a)
 
 
-- 💬 Ask me about **Python ,html ,java ,pwn  and lua (dont ask me about js as im still a nerd at js😅)**
+- 💬 Ask me about **Python ,html/css ,pwn and lua (dont ask me about js as im still a nerd at js😅)**
 
-- 📫 How to reach me **mr.gobiln007a@gmail.com,RedKn1ght#0001**
+- 📫 How to reach me **mr.gobiln007a@gmail.com,富岡ぎゅう#4847**
 
 
 
