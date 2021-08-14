@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python ,html/css ,pwn and lua (dont ask me about js as im still a nerd at js😅)**
 
-- 📫 How to reach me **mr.gobiln007a@gmail.com,富岡ぎゅう#4847**
+- 📫 How to reach me **mr.goblin007a@gmail.com**
 
 
 
