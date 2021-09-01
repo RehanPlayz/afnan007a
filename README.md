@@ -3,14 +3,13 @@
 <h3 align="center">A passionate High School coder from India</h3>
 
 
-- 🌱 I’m currently learning **Python and js**
+- i loves coding and i codes in python and html/css
 
-- 👨‍💻 All of my projects are available at [https://github.com/afnan007a](https://github.com/afnan007a)
+-  All of my projects are available at [https://giyudev.org](https://ghttps://giyudev.org)
 
+- i uses linux (debian gang)
 
-- 💬 Ask me about **Python ,html/css ,pwn and lua (dont ask me about js as im still a nerd at js😅)**
-
-- 📫 How to reach me **mr.goblin007a@gmail.com**
+- mail me : dev@giyudev.org
 
 
 
