@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello There! I'm Giyu 🥰</h1>
 <h3 align="center">A fellow developer!</h3>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1709661401334354376/70D0DA4880F50973E32A881BB19BFB43539CD6D1/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="200"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1709661401334354376/70D0DA4880F50973E32A881BB19BFB43539CD6D1/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 
 
 - i loves coding and i codes in python and html/css
