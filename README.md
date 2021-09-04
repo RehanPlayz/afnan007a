@@ -18,9 +18,6 @@
    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a>
  <a href="https://linux.org" target="_blank"> <img src="https://th.bing.com/th/id/R8b2ed11d0b55b0488cfb982f3bd21658?rik=7%2fAzHi9baf%2bVlA&pid=ImgRaw" alt="linux" width="40" height="40"/> </a>
 
+<h3 align="left">Statistics</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afnan007a&show_icons=true&locale=en&layout=compact&theme=dark" alt="afnan007a" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnan007a&show_icons=true&theme=dark&locale=en" alt="afnan007a" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afnan007a&theme=dark" alt="afnan007a" /></p>
+![Statistics](https://github.com/ashwinvin/ashwinvin/blob/main/github-metrics.svg)
