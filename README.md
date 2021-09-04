@@ -10,13 +10,57 @@
 - i uses linux (debian gang)
 
 - mail me : dev@giyudev.org
+  <summary>
+    🛠️ Languages and Softwares
+  </summary>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=bash&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <p>
+    
+</details>
 
+<details open>
+  
+   <summary>
+    🛠️ My Daily Drive
+  </summary>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Vivaldi-FF1B2D?style=for-the-badge&logo=vivaldi&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=windows-terminal&logoColor=white">
+  </p>
+  
+</details>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3schools.com/javascript/" target="_blank"> </a><a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://yourpcfriend.com/wp-content/uploads/2019/06/1200px-Visual_Studio_Code_1.35_icon.svg_.png" alt="vsc" width="40" height="40"/> </a>
-   <a href="https://www.microsoft.com/en-gb/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a>
- <a href="https://linux.org" target="_blank"> <img src="https://th.bing.com/th/id/R8b2ed11d0b55b0488cfb982f3bd21658?rik=7%2fAzHi9baf%2bVlA&pid=ImgRaw" alt="linux" width="40" height="40"/> </a>
+<details open>
+  
+  <summary>
+    🗺️ Find Me on
+  </summmary>
+  
+  <p>
+    <a href="mailto:ashwinvinodsa@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    </a>
+    <a href="https://discord.gg/ZejzUXcB2e" target="_blank">
+      <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/Snip_Nip" target="_blank">
+      <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://dev.to/ashwin_vinod" target="_blank">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+    </a>
+  </p>
+  
 
 <h3 align="left">Statistics:</h1>
 
