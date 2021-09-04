@@ -22,10 +22,6 @@
      <img src="https://img.shields.io/badge/html-%23DD0031.svg?&style=for-the-badge=html">
   <p>
     
-</details>
-
-<details open>
-  
    <summary>
     My Daily Drive
   </summary>
@@ -35,6 +31,4 @@
     <img src="https://img.shields.io/badge/-VS%20Code-blue">
     <img src="https://img.shields.io/badge/-Debian-darkbluee">
   </p>
-  
-</details>
 
