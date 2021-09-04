@@ -11,7 +11,7 @@
 
 - mail me : dev@giyudev.org
   <summary>
-    Languages and Softwares
+    Languages
   </summary>
   
   <p>
@@ -23,12 +23,12 @@
   <p>
     
    <summary>
-    My Daily Drive
+    My Daily Life
   </summary>
   
   <p>
     <img src="https://img.shields.io/badge/-Spotify-brightgreen">
     <img src="https://img.shields.io/badge/-VS%20Code-blue">
-    <img src="https://img.shields.io/badge/-Debian-darkbluee">
+    <img src="https://img.shields.io/badge/-Debian-darkblue">
   </p>
 
