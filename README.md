@@ -11,16 +11,16 @@
 
 - mail me : dev@giyudev.org
   <summary>
-    🛠️ Languages and Softwares
+    Languages and Softwares
   </summary>
   
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=bash&logoColor=white">
+    <img src="https://img.shields.io/badge/bash-2CA5E0?style=for-the-badge&logo=bash&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+     <img src="https://img.shields.io/badge/html-%23DD0031.svg?&style=for-the-badge&logo=redis">
   <p>
     
 </details>
@@ -28,7 +28,7 @@
 <details open>
   
    <summary>
-    🛠️ My Daily Drive
+    My Daily Drive
   </summary>
   
   <p>
@@ -43,7 +43,7 @@
 <details open>
   
   <summary>
-    🗺️ Find Me on
+    Find Me on
   </summmary>
   
   <p>
