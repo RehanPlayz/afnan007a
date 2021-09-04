@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello There! I'm Giyu</h1>
-<h3 align="center">A passionate High School coder from India</h3>
+<h1 align="center">Hello There! I'm Giyu 🥰</h1>
+<h3 align="center">A fellow developer!</h3>
 
 
 - i loves coding and i codes in python and html/css
