@@ -18,5 +18,5 @@
    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a>
  <a href="https://linux.org" target="_blank"> <img src="https://th.bing.com/th/id/R8b2ed11d0b55b0488cfb982f3bd21658?rik=7%2fAzHi9baf%2bVlA&pid=ImgRaw" alt="linux" width="40" height="40"/> </a>
 
-<h3 align="left">Statistics</h1>
+<h3 align="left">Statistics:</h1>
 
