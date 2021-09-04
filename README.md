@@ -1,6 +1,7 @@
 
 <h1 align="center">Hello There! I'm Giyu 🥰</h1>
 <h3 align="center">A fellow developer!</h3>
+<img src="https://i.pinimg.com/originals/cb/16/c9/cb16c926c83b7b5b1331b3b0d5c44e29.gif" width="200"/>
 
 
 - i loves coding and i codes in python and html/css
