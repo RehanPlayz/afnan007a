@@ -31,35 +31,10 @@
   </summary>
   
   <p>
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Vivaldi-FF1B2D?style=for-the-badge&logo=vivaldi&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=windows-terminal&logoColor=white">
+    <img src="https://img.shields.io/badge/-Spotify-brightgreen">
+    <img src="https://img.shields.io/badge/-VS%20Code-blue">
+    <img src="https://img.shields.io/badge/-Debian-darkbluee">
   </p>
   
 </details>
-
-<details open>
-  
-  <summary>
-    Find Me on
-  </summmary>
-  
-  <p>
-    <a href="mailto:ashwinvinodsa@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
-    <a href="https://discord.gg/ZejzUXcB2e" target="_blank">
-      <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/Snip_Nip" target="_blank">
-      <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://dev.to/ashwin_vinod" target="_blank">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-    </a>
-  </p>
-  
-
-<h3 align="left">Statistics:</h1>
 
