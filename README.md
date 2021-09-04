@@ -20,4 +20,3 @@
 
 <h3 align="left">Statistics</h1>
 
-![Statistics](https://github.com/afnan007a/afnan007a/blob/main/github-metrics.svg)
