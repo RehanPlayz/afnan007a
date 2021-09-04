@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello There! I'm Giyu 🥰</h1>
 <h3 align="center">A fellow developer!</h3>
-<img src="https://static.myfigurecollection.net/upload/pictures/2021/02/11/2632738.gif" align="center"/>
+<img align="center" src="https://static.myfigurecollection.net/upload/pictures/2021/02/11/2632738.gif"/>
 
 
 - i loves coding and i codes in python and html/css
