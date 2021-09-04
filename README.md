@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
     <img src="https://img.shields.io/badge/bash-2CA5E0?style=for-the-badge&logo=bash&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-     <img src="https://img.shields.io/badge/html-%23DD0031.svg?&style=for-the-badge&logo=redis">
+     <img src="https://img.shields.io/badge/html-%23DD0031.svg?&style=for-the-badge&=redis">
   <p>
     
 </details>
