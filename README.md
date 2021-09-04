@@ -11,7 +11,7 @@
 
 - mail me : dev@giyudev.org
   <summary>
-    Languages
+    Languages:
   </summary>
   
   <p>
@@ -22,7 +22,7 @@
   <p>
     
    <summary>
-    My Daily Life
+    My Daily Life:
   </summary>
   
   <p>
@@ -30,4 +30,9 @@
     <img src="https://img.shields.io/badge/-VS%20Code-blue">
     <img src="https://img.shields.io/badge/-Debian-darkblue">
   </p>
-
+  
+   <summary>
+   Statistics:
+  </summary>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnan007a&show_icons=true&theme=dark&locale=en" alt="afnan007a" /></p>
