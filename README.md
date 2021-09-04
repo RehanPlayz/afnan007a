@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge=nodedotjs">
     <img src="https://img.shields.io/badge/bash-2CA5E0?style=for-the-badge=bash">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge=git">
-     <img src="https://img.shields.io/badge/html-%23DD0031.svg?&style=for-the-badge&=html">
+     <img src="https://img.shields.io/badge/html-%23DD0031.svg?&style=for-the-badge=html">
   <p>
     
 </details>
