@@ -1,5 +1,5 @@
 
-![Profile views](https://komarev.com/ghpvc/?username=afnan007a&style=flat-square&color=blueviolet)
+<h1 align="center">![Profile views](https://komarev.com/ghpvc/?username=afnan007a&style=flat-square&color=blueviolet)</h1>
 <h1 align="center">Hello There! I'm Giyu 🥰</h1>
 <h3 align="center">A fellow developer!</h3>
 <p align="center">
