@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
- ○ i loves coding and i codes in python and html/css
+ i loves coding and i codes in python and html/css
 <p align="center">
-○ All of my projects are available at [https://giyudev.org](https://ghttps://giyudev.org)
+ All of my projects are available at [https://giyudev.org](https://ghttps://giyudev.org)
 <p align="center">
-○ i uses linux (debian gang)
+ i uses linux (debian gang)
 <p align="center">
-○ mail me : dev@giyudev.org
+ mail me : dev@giyudev.org
   </p>
 
   <p align="center">
@@ -28,6 +28,7 @@
 
      <p align="center">
     My Daily Life:
+      </p>
 
   
   <p align="center">
