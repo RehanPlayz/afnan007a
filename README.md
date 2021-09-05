@@ -13,6 +13,7 @@
 - i uses linux (debian gang)
 
 - mail me : dev@giyudev.org
+  </p>
   <summary>
     Languages:
   </summary>
@@ -38,4 +39,4 @@
   </summary>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnan007a&show_icons=true&theme=dark&locale=en" alt="afnan007a" /></p>
-</p>
+
