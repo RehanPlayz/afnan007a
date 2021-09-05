@@ -17,7 +17,6 @@
 
   <p align="center">
     Languages:
-
   
   <p align="center">
     <img src="https://img.shields.io/badge/-Python-blue">
@@ -28,9 +27,7 @@
 
      <p align="center">
     My Daily Life:
-      </p>
 
-  
   <p align="center">
     <img src="https://img.shields.io/badge/-Spotify-brightgreen">
     <img src="https://img.shields.io/badge/-VS%20Code-blue">
