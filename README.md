@@ -26,7 +26,7 @@
     
 
   <p align="center">
-    Languages:
+    Daily Life:
   
   <p align="center">
     <img src="https://img.shields.io/badge/-Spotify-brightgreen">
