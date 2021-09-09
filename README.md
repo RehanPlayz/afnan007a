@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
- i loves coding and i codes in python and html/css
+ i love coding and i code in python and html/css
 <p align="center">
- i uses linux (debian gang)
+ i use linux (debian gang)
 <p align="center">
  mail me : dev@giyudev.org
   </p>
