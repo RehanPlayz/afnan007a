@@ -1,8 +1,8 @@
 
-<h1 align="center">Hello There! I'm Giyu 🥰</h1>
+<h1 align="center">Hello There! I'm Itachi Uchiha 🥰</h1>
 <h3 align="center">A fellow developer!</h3>
 <p align="center">
-<img src="https://static.myfigurecollection.net/upload/pictures/2021/02/11/2632738.gif"/>
+<img src="https://cdn.discordapp.com/attachments/874243223122493520/890979130852671518/517334243.jpg"/>
 </p>
 
 <p align="center">
