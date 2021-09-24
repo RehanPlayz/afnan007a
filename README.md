@@ -9,8 +9,6 @@
  i love coding and i code in python and html/css
 <p align="center">
  i use linux (debian gang)
-<p align="center">
- mail me : dev@giyudev.org
   </p>
 
   <p align="center">
