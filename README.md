@@ -1,8 +1,8 @@
 
-<h1 align="center">Hello There! I'm Itachi Uchiha 🥰</h1>
+<h1 align="center">Hello There! I'm Dabi</h1>
 <h3 align="center">A fellow developer!</h3>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/874243223122493520/890979130852671518/517334243.jpg"/>
+<img src="https://spotify.ovh/raw/16/Z23YCIUGTaYRZNn.png"/>
 </p>
 
 <p align="center">
