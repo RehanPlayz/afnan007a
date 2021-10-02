@@ -2,7 +2,7 @@
 <h1 align="center">Hello There! I'm Dabi</h1>
 <h3 align="center">A fellow developer!</h3>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/874115724447186974/893512742605049907/3f320cf5acc1754059922df2be39a08e.jpg"/>
+<img src="https://tenor.com/view/dabi-dabibnha-gif-9945848"/>
 </p>
 
 <p align="center">
