@@ -3,7 +3,6 @@
 <h3 align="center">A fellow developer!</h3>
 <p align="center">
  
-<div class="tenor-gif-embed" data-postid="9945848" data-share-method="host" data-aspect-ratio="1.28205" data-width="100%"><a href="https://tenor.com/view/dabi-dabibnha-gif-9945848">Dabi Dabibnha GIF</a>from <a href="https://tenor.com/search/dabi-gifs">Dabi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <p align="center">
