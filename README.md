@@ -34,7 +34,7 @@
   <p align="center">
    Statistics:
 
-  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnan007a&show_icons=true&theme=nord" alt="afnan007a" /></p>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan007a&langs_count=5&theme=nord" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnan007a&show_icons=true&theme=nord"/></p>
+
 
