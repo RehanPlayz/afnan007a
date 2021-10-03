@@ -5,7 +5,7 @@
  
 </p>
 <p align="center">
-<img align="center" alt="Coding" width="400" src="https://tenor.com/view/dabi-dabibnha-gif-9945848">
+<img align="center" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/730023081489203241/894044179515183144/dabi-dabibnha.gif">
    </p>
 
 <p align="center">
