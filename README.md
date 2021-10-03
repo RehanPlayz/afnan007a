@@ -9,7 +9,7 @@
    </p>
 
 <p align="center">
- <bold> i love coding and i code in python and html/css
+ <strong> i love coding and i code in python and html/css
 <p align="center">
  i use linux (debian gang)
   </p>
